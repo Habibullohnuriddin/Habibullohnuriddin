@@ -19,7 +19,8 @@
 - 📫 How to reach me: Habibullohnuriddin@gmail.com
 
 <h3 align="center">Connect with me:</h3>
-<p align="center"><img src="https://skillicons.dev/icons?i=linkedin,instagram,)](https://skillicons.dev"><p>
+<a href="https://www.linkedin.com/in/habibulloh"><p align="center"><img src="https://skillicons.dev/icons?i=linkedin,)](https://skillicons.dev"><p></a>
+<a href="https://www.instagram.com/habibullohnuriddin"><p align="center"><img src="https://skillicons.dev/icons?i=instagram,)](https://skillicons.dev"><p></a>
 
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Habibullohnuriddin&show_icons=true&locale=en&layout=compact" alt="Habibullohnuriddin" /></p>
 
