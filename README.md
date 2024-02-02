@@ -24,8 +24,8 @@
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Habibullohnuriddin&show_icons=true&locale=en&layout=compact" alt="Habibullohnuriddin" /></p>
 
 <!-- <p align="center">
-<a href="https://linkedin.com/in/habibulloh-nuriddinov-045408202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="habibulloh-nuriddinov-045408202" height="30" width="40" /></a>
-<a href="https://instagram.com/insta_meo1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="insta_meo1" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/habibulloh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="habibulloh-nuriddinov-045408202" height="30" width="40" /></a>
+<a href="https://instagram.com/habibullohnuriddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="insta_meo1" height="30" width="40" /></a>
 </p> -->
 
 <!--
