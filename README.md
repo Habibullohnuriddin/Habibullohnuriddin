@@ -4,7 +4,10 @@
 
 <h1 align="center">My skills</h1>
 
-<p align="center"> <img src="https://skills.thijs.gg/icons?i=html,css,sass,bootstrap,tailwind,js,react,redux,nodejs,mongodb,postman,figma,)](https://skills.thijs.gg)"><p>
+<p align="center">
+  <img src="https://skills.thijs.gg/icons?i=html,css,sass,bootstrap,tailwind,js,react,redux,nodejs,mongodb,postman,figma">
+</p>
+
 
  <br>
 
