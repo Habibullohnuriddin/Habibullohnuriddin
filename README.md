@@ -6,7 +6,7 @@
 
 <p align="center">
 
- <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,redux,nodejs,mongodb,postman,figma&theme=light" alt="Skills Icons">
+ <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,redux,nodejs,mongodb,postman,figma&theme=dark" alt="Skills Icons">
 
 </p>
 
