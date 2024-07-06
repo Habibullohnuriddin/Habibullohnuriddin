@@ -5,7 +5,9 @@
 <h1 align="center">My skills</h1>
 
 <p align="center">
- <img src="https://skills.thijs.gg/icons?i=html,css,sass,bootstrap,tailwind,js,react,redux,nodejs,mongodb,postman,figma" alt="Skills Icons">
+
+ <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,redux,nodejs,mongodb,postman,figma&theme=light" alt="Skills Icons">
+
 </p>
 
 
